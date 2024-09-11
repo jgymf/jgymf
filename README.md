@@ -1,9 +1,9 @@
 # About me
 
 
-I am trained as a computational chemist, but at heart, I am more of a mathematician and physicist. Programming feels like wielding a magic wand—it empowers me to achieve remarkable results and explore bold ideas. It enhances and completes my mathematical instincts.
+I'm a trained computational chemist, but at heart, I'm more of a mathematician and physicist. Programming feels like wielding a magic wand—it empowers me to achieve remarkable results and explore bold ideas. It enhances and completes my mathematical instincts.
 
-I am deeply interested in buidling machine learning models from scratch. I am also passionate about applying machine learning to practical problems, ranging from drug discovery and supply chain optimization problems to refining trading strategies in the stock market. I created this GitHub profile to: i) showcase some of the machine learning (and non-ML related but interesting) projects I’ve worked on, and ii) collaborate on future projects.
+I'm deeply interested in buidling machine learning models from scratch. I'm also passionate about applying machine learning to practical problems, ranging from drug discovery and supply chain optimization problems to refining trading strategies on the stock market. I created this GitHub profile to: i) showcase some of the machine learning (and non-ML related but interesting) projects I’ve worked on, and ii) collaborate on future projects.
 
 I’m excited to connect with others here. Feel free to reach out!
 
